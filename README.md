@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @Ashutosh980
-- 👀 I’m interested in mobile Apllication
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Ashutosh</h1>
+<h3 align="center">A passionate flutter developer from India</h3>
 
-<!---
-Ashutosh980/Ashutosh980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh980&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh980" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh980" alt="ashutosh980" /></a> </p>
+
+- 🔭 I’m currently working on **Some Learning Project**
+
+- 🌱 I’m currently learning **flutter,Nodejs**
+
+- 👯 I’m looking to collaborate on **if Needed then i will ask**
+
+- 🤝 I’m looking for help with **Not now**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Ashutosh980](https://github.com/Ashutosh980)
+
+- 💬 Ask me about **dart,flutter**
+
+- 📫 How to reach me **https://github.com/Ashutosh980**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ashutosh tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh tiwari" height="30" width="40" /></a>
+<a href="https://instagram.com/ashutosh_tiwari999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutosh_tiwari999" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh980&show_icons=true&locale=en&layout=compact" alt="ashutosh980" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh980&show_icons=true&locale=en" alt="ashutosh980" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh980&" alt="ashutosh980" /></p>
