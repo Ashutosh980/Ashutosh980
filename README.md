@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ashutosh</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ashutosh980.Ashutosh980" />
 
 <h1 align="center">
