@@ -36,7 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh980&show_icons=true&locale=en" alt="ashutosh980" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh980&" alt="ashutosh980" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=ashutosh980" alt="ashutosh980" /></p>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
